@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Новости</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="KEY1">1</string>
+    <string name="KEY2">2</string>
+    <string name="more">Подробнее!</string>
+    <string name="timeOutReadServer">Таймаут ответа от сервера</string>
+    <string name="ErrorConnect">Ошибка соединение с </string>
+    <string name="errorHost">Неизвестный хост</string>
+    <string name="noXML">Сервер не прислал XML</string>
+    <string name="textReconnectButton">Повторить подключение</string>
+    <string name="ErrorXMLParcer">Ошибка в XML</string>
+
+</resources>

@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:id="@+id/NewsLayout"
+	android:padding="5dp"
+    android:background="@color/See"
+    android:orientation="horizontal"
+    android:gravity="left">
+
+    
+    <RelativeLayout 
+    android:layout_width="220dp"
+    android:layout_height="140dp"
+    android:id="@+id/relativeLayout"
+  >
+    
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="15dp"
+        android:textColor="#550000"
+        />
+    
+
+    
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/date"
+        android:textColor="#550000"
+         />    
+
+    <TextView
+        android:id="@+id/theme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/date"
+        
+        android:textColor="#000000"
+        android:textStyle="bold"
+        
+        /> 
+      
+
+        
+	<Button 
+	    android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/theme"
+        android:text="@string/more"
+        android:layout_centerHorizontal="true"
+        
+	    />    
+	    
+	
+	</RelativeLayout>
+	
+    
+	     <ImageView 
+        android:id="@+id/themeImage"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="right"
+   
+                   
+         />    
+	
+</LinearLayout>
