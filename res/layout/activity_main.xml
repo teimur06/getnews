@@ -7,7 +7,7 @@
      >
 
     
-	<com.example.getnews.GifImageView 
+	<com.cj.getnews.GifImageView 
 	    android:layout_width="fill_parent"
 	    android:layout_height="fill_parent"
 	    android:id="@+id/gifImageView"
