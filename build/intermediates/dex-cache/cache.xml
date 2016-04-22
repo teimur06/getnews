@@ -2,11 +2,18 @@
 <items version="2" >
 
     <item
-        jar="D:\workspace\getnews1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.0\jars\classes.jar"
+        jar="D:\workspace\getnews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="983e2f375504bc04def18e709c35192afe92e65f">
-        <dex dex="D:\workspace\getnews1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.0_caec5afd0a334811b28ea72a4ddb2524a861fc1b.jar" />
+        <dex dex="D:\workspace\getnews\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.0_153b409890576703d9b4dfd3adfafb9bc2f41817.jar" />
+    </item>
+    <item
+        jar="D:\workspace\getnews\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\workspace\getnews\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_a75ab477832c3765bb6261a35a01b9e64f382e60.jar" />
     </item>
     <item
         jar="D:\android-sdks\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
@@ -16,18 +23,32 @@
         <dex dex="D:\workspace\getnews1\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_d8cdc29c41c12353c179162854bbd99479569e21.jar" />
     </item>
     <item
-        jar="D:\workspace\getnews1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="D:\workspace\getnews1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_798e23552c579294d98c3a6eeebb1116b2464058.jar" />
-    </item>
-    <item
         jar="D:\workspace\getnews1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="f8efd0096475e0daf054267b61544e10dc776503">
         <dex dex="D:\workspace\getnews1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_311d563d679701122e5634428cb891e2ffb406d7.jar" />
+    </item>
+    <item
+        jar="D:\workspace\getnews\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\workspace\getnews\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_27f09ce0453487bdce022241f70b4deb5e48f04e.jar" />
+    </item>
+    <item
+        jar="D:\workspace\getnews1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="D:\workspace\getnews1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.0_caec5afd0a334811b28ea72a4ddb2524a861fc1b.jar" />
+    </item>
+    <item
+        jar="D:\workspace\getnews1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\workspace\getnews1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_798e23552c579294d98c3a6eeebb1116b2464058.jar" />
     </item>
 
 </items>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\workspace\\getnews1\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "outputFile": "D:\\workspace\\getnews\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 198
                 },
                 "from": {
-                    "file": "D:\\workspace\\getnews1\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "D:\\workspace\\getnews\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 474
                 },
                 "from": {
-                    "file": "D:\\workspace\\getnews1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-v14\\values.xml",
+                    "file": "D:\\workspace\\getnews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -53,7 +53,7 @@
                     "endOffset": 545
                 },
                 "from": {
-                    "file": "D:\\workspace\\getnews1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-v14\\values.xml",
+                    "file": "D:\\workspace\\getnews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -72,7 +72,7 @@
                     "endOffset": 628
                 },
                 "from": {
-                    "file": "D:\\workspace\\getnews1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-v14\\values.xml",
+                    "file": "D:\\workspace\\getnews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -92,7 +92,7 @@
                     "endOffset": 1038
                 },
                 "from": {
-                    "file": "D:\\workspace\\getnews1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-v14\\values.xml",
+                    "file": "D:\\workspace\\getnews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -113,7 +113,7 @@
                     "endOffset": 1460
                 },
                 "from": {
-                    "file": "D:\\workspace\\getnews1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-v14\\values.xml",
+                    "file": "D:\\workspace\\getnews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
