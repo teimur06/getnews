@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/MainFrameLayout"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+     >
+
+    
+	<com.example.getnews.GifImageView 
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:id="@+id/gifImageView"
+	    android:layout_centerInParent="true"
+
+	    />
+   
+	<Button 
+	   	android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/reconnectButton"
+	    android:onClick="click"
+	    android:text="@string/textReconnectButton"
+	    android:layout_centerHorizontal="true"
+	    android:layout_alignParentBottom="true"
+	    android:visibility="invisible"
+	     />
+
+	<ListView 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:id="@+id/lvMain"	
+	    android:visibility="invisible"    
+	    
+	    />
+    
+    
+</RelativeLayout>
