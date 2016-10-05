@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.example.getnews"
+        applicationId "com.cj.getnews"
         minSdkVersion 18
         targetSdkVersion 22
     }
